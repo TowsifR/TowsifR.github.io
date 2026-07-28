@@ -6,6 +6,6 @@ Explicitly modeling which steps an agent (or multi-agent system) is allowed to r
 
 Not to be confused with knowledge graphs (modeling data/entities) — same words, different concept.
 
-Part of [[ai-engineering|AI engineering]]. See [[agent-harness-loop-graph-engineering|Harness vs. Loop vs. Graph Engineering]] for how this fits alongside the other two layers.
+Part of [[ai-engineering|AI engineering]]. See [[agent-harness-loop-graph-engineering|Harness vs. Loop vs. Graph Engineering]] for how this fits alongside the other two layers, and [[graph-engineering-with-claude-code|Graph Engineering with Claude Code]] for doing this in practice via Claude Code's workflows.
 
 Tools: LangGraph, AutoGen's GraphFlow.
